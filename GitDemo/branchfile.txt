@@ -1,0 +1,1 @@
+echo "This is created in GitNewBranch" > branchfile.txt
